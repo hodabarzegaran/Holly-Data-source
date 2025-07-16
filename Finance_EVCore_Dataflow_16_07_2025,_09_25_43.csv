@@ -1,0 +1,2 @@
+Requested on,Dataflow name,Dataflow refresh status,Table name,Partition name,Refresh status,Start time,End time,Duration,Rows processed,Bytes processed (KB),Max commit (KB),Processor Time,Wait time,Compute engine,Error,
+NA,Finance_EVCore_Dataflow,Failed,,NA,Failed,NA,NA,00:00:00.0000,NA,NA,NA,NA,NA,NA,There was a problem refreshing your dataflow. {"RootActivityId":"63150415-64b1-a0f3-2360-4f0f2bb24ac2" "ErrorMessage":"Cannot acquire lock for model 'fee653e7-0371-4b10-a316-c95c8d5fab62/afd1d3a8-ccbb-4ce4-a42c-16f336315b08' because it is currently in use."}
